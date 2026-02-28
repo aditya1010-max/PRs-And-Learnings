@@ -3,7 +3,7 @@
 - i definately dont consider it as my first PR 😅
 
 ![ss of pr](image.png)
-link - [link](https://github.com/aditya1010-max/gsoc-playground-iD/pull/9)
+link - [link](https://github.com/aditya1010-max/gsoc-playgrou/pull/9)
 
 - Turns out, I created a pull request in my own fork and spent a good amount of time being nervous about maintainers reviewing it.
 
