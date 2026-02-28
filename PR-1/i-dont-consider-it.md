@@ -1,6 +1,6 @@
 # i dont conside it 
 
-- i definately dont consider it as my first PR 😂😂
+- i definately dont consider it as my first PR 😅
 
 ![ss of pr](image.png)
 link - [link](https://github.com/aditya1010-max/gsoc-playground-iD/pull/9)
